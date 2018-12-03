@@ -192,13 +192,13 @@
         <mark key="." line="42" column="9" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e32/StatisticsByTypeClass.scala" timestamp="1543843929933">
-        <mark key="[" line="77" column="53" />
-        <mark key="]" line="77" column="79" />
-        <mark key="^" line="77" column="79" />
-        <mark key="." line="77" column="79" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e32/StatisticsByTypeClass.scala" timestamp="1543844649971">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="100" column="24" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1543398893374">
+      <file name="/sbtShell" timestamp="1543844455985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1542799134655">
@@ -297,8 +297,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>???</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>???</text>
@@ -307,7 +307,7 @@
         <text encoding="base64">CS8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -316,22 +316,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YWwgZXZlbnRzMSA9IExpc3QoCgkJCUNvbW1hbmQoIjEiKSwKCQkJQ29tbWFuZCgiMiIpLAoJCQlTdWNjZWVkKCIxIiksCgkJCUZhaWwoIjEiKQoJCSkKCQkvLyBwcm9wMSBPSywgcHJvcDIgTiwgcHJvcDMgT0sKICAgIHRlc3RFdmVudHMoZXZlbnRzMSwgZmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgZXZlbnRzMSA9IExpc3QoCgkJCUNvbW1hbmQoIjEiKSwKCQkJQ29tbWFuZCgiMiIpLAoJCQlTdWNjZWVkKCIxIiksCgkJCUZhaWwoIjEiKQoJCSkKCQkvLyBwcm9wMSBPSywgcHJvcDIgTiwgcHJvcDMgT0sKICAgIHRlc3RFdmVudHMoZXZlbnRzMSwgZmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YWwgbW9uaXRvciA9IG5ldyBNeU1vbml0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgbW9uaXRvciA9IG5ldyBNeU1vbml0b3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
