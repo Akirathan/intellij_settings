@@ -15,11 +15,11 @@
         <mark key="^" line="25" column="32" />
         <mark key="." line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/e34/Operations.scala" timestamp="1543847493078">
-        <mark key="[" line="12" column="57" />
-        <mark key="]" line="12" column="54" />
-        <mark key="." line="12" column="54" />
-        <mark key="^" line="12" column="54" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/e34/Operations.scala" timestamp="1543848655947">
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="13" />
+        <mark key="." line="41" column="13" />
+        <mark key="^" line="41" column="13" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1112/exercises/07_concurrency/G14_ParallelCollections.groovy" timestamp="1542035027674">
         <mark key="[" line="13" column="15" />
@@ -78,11 +78,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e34/OperationsTest.scala" timestamp="1543847472760">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e34/OperationsTest.scala" timestamp="1543848619401">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e11/Linearization.scala" timestamp="1542636948071">
         <mark key="[" line="45" column="16" />
@@ -316,40 +316,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>variable.</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgdW5rbm93biA9PiB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIlNlY29uZCBwYXJhbSB3cm9uZyB0eXBlOiAiICsgc2hvd1Jhdyh1bmtub3duKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInN3YXBJbXBsIC0gc2hvd1Jhd0E6ICIgKyBzaG93UmF3KHZhckEpICsgIiBzaG93UmF3QjogIiArIHNob3dSYXcodmFyQikpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHJlaWZ5IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJcmVpZnkgewogICAgICAgICAgICAgIHZhbCBfYyA9IHZhckFUcmVlCiAgICAgICAgICAgICAgdmFyQVRyZWUgPSB2YXJCVHJlZQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhLnNwbGljZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
