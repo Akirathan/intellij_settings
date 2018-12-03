@@ -15,6 +15,12 @@
         <mark key="^" line="25" column="32" />
         <mark key="." line="25" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/e34/Operations.scala" timestamp="1543847493078">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1112/exercises/07_concurrency/G14_ParallelCollections.groovy" timestamp="1542035027674">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="22" />
@@ -71,6 +77,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e34/OperationsTest.scala" timestamp="1543847472760">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="23" column="5" />
+        <mark key="^" line="23" column="5" />
+        <mark key="." line="23" column="5" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e11/Linearization.scala" timestamp="1542636948071">
         <mark key="[" line="45" column="16" />
@@ -186,11 +198,11 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/e33/Assert.scala" timestamp="1543845806798">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="18" column="59" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/e33/Assert.scala" timestamp="1543846443674">
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="25" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="38" column="25" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e06/Rational.scala" timestamp="1542013232490">
         <mark key="[" line="29" column="0" />
@@ -304,40 +316,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>variable.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CS8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWwgZXZlbnRzMSA9IExpc3QoCgkJCUNvbW1hbmQoIjEiKSwKCQkJQ29tbWFuZCgiMiIpLAoJCQlTdWNjZWVkKCIxIiksCgkJCUZhaWwoIjEiKQoJCSkKCQkvLyBwcm9wMSBPSywgcHJvcDIgTiwgcHJvcDMgT0sKICAgIHRlc3RFdmVudHMoZXZlbnRzMSwgZmFsc2UpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgbW9uaXRvciA9IG5ldyBNeU1vbml0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
