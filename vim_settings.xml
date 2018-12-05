@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1543946691128">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544003652155">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -327,11 +327,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjLnVuaXZlcnNlLl8K</text>
+      <register name="&quot;" type="4">
+        <text>// TODO: traverser?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhwcmVzc2lvbiA=</text>
+        <text>// TODO: traverser?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgYy51bml2ZXJzZS5fCg==</text>
