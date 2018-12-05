@@ -132,7 +132,7 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544024771252">
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544029527872">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="5" />
         <mark key="." line="20" column="5" />
@@ -222,7 +222,7 @@
         <mark key="^" line="100" column="24" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1543844455985">
+      <file name="/sbtShell" timestamp="1544028488375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1542799134655">
@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544025468449">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="41" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544029588777">
+        <mark key="[" line="149" column="46" />
+        <mark key="]" line="150" column="33" />
+        <mark key="." line="150" column="33" />
+        <mark key="^" line="150" column="33" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -325,40 +325,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIkFkZGluZyBiaW5PcD0kYmluT3AiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>printlnWithTabs()</text>
+        <text>MutableList.empty[BinOp]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICIrIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIkFkZGluZyBiaW5PcD0kYmluT3AiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWN1cnJPcGVyYW5kTGlzdC5zaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkdGltZXMiKSA9PgoKICAgICAgICBjYXNlIFRlcm1OYW1lKCIkZGl2IikgPT4K</text>
+        <text encoding="base64">ICAgICAgYmluT3BzTGlzdC5oZWFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICIvIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGJpbk9wc0xpc3QubGVuZ3RoID09IDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICIqIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluT3BzTGlzdC5nZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkcGx1cyIpID0+CiAgICAgICAgICBjdXJyT3BlcmF0b3IgPSAiKyIKICAgICAgICAgIHByaW50bG4oImN1cnJPcGVyYXRvciA9ICIgKyBjdXJyT3BlcmF0b3IpCgogICAgICAgIGNhc2UgVGVybU5hbWUoIiRtaW51cyIpID0+Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiVHJhdmVyc2UgbnVtID0gIiArIHRyYXZlcnNlTnVtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICItIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIlx0c2hvd1Jhdyh0cmVlKSA9ICR7c2hvd1Jhdyh0cmVlKX0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHJhdmVkc2QK</text>
+        <text encoding="base64">ICAgICAgICAgIHN1cGVyLnRyYXZlcnNlVHJlZXMoYXJncykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>
@@ -374,6 +374,11 @@
         <entry>w</entry>
         <entry>99</entry>
         <entry>101</entry>
+        <entry>109</entry>
+        <entry>59</entry>
+        <entry>121</entry>
+        <entry>24</entry>
+        <entry>28</entry>
         <entry>21</entry>
       </history-cmd>
       <history-expr />
