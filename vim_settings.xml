@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544007664467">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="26" />
-        <mark key="^" line="34" column="26" />
-        <mark key="." line="34" column="26" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544009515295">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
+        <mark key="^" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -269,9 +269,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="17" column="25" />
-      </file>
-      <file name="/Scala Console" timestamp="1544007543503">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e12/DefaultUserServiceComponent.scala" timestamp="1542638230948">
         <mark key="[" line="4" column="104" />
@@ -328,40 +325,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkcGx1cyIpID0+CiAgICAgICAgICBjdXJyT3BlcmF0b3IgPSAiKyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[Var]</text>
+        <text>BinOp(currOperator, currOperandList(0), currOperandList(1))</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkcGx1cyIpID0+CiAgICAgICAgICBjdXJyT3BlcmF0b3IgPSAiKyIK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkdGltZXMiKSA9PgogICAgICAgICAgY3Vyck9wZXJhdG9yID0gIioiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS8vIFZhcmlhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpLmlzVGVybSkgewogICAgICAgICAgICB2YWwgbmFtZSA9IGkubmFtZQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJCQliaW5PcHNMaXN0IDorIEJpbk9wKGN1cnJPcGVyYXRvciwgY3Vyck9wZXJhbmRMaXN0KDApLCBjdXJyT3BlcmFuZExpc3QoMSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIENoZWNrIGlmIGl0IGlzIGEgdmFyaWFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluT3BzTGlzdC5lbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciAK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbk9wc0xpc3QgPSAgOjogYmluT3BzTGlzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBiaW5PcCA9IEJpbk9wKCIqIiwgbnVsbCwgbnVsbCkKCQliaW5PcC5sZWZ0ID0gVmFyKCJ4IikK</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYW5kTGlzdCA9ICA6OiBjdXJyT3BlcmFuZExpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBtZXRob2QodHJlZTogYy5FeHByW0FueVJlZl0pOiBVbml0ID0gewoKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYW5kTGlzdCA9IFZhcihuYW1lLmFzSW5zdGFuY2VPZltTdHJpbmddKSA6OiBjdXJyT3BlcmFuZExpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjLnVuaXZlcnNlLl8K</text>
+        <text encoding="base64">ICAgICAgICAgIGFzc2VydChjdXJyVmFyTGlzdC5sZW5ndGggPD0gMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyQ29uc3RMaXN0OiBMaXN0W051bWJlcl0gPSBMaXN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYy51bml2ZXJzZS5fCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
