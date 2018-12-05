@@ -132,11 +132,11 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1543939557335">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="5" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544013044355">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e21/TailRecursion.scala" timestamp="1543240497098">
         <mark key="[" line="22" column="0" />
@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544009515295">
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="33" />
-        <mark key="^" line="44" column="33" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544013040099">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -325,40 +325,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJhdmVkc2QK</text>
       </register>
       <register name="-" type="4">
-        <text>BinOp(currOperator, currOperandList(0), currOperandList(1))</text>
+        <text>printlnWithTabs()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkdGltZXMiKSA9PgogICAgICAgICAgY3Vyck9wZXJhdG9yID0gIioiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50QXBwbHlTdGF0ZShhcHBseU51bSwgdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJhdmVkc2QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQliaW5PcHNMaXN0IDorIEJpbk9wKGN1cnJPcGVyYXRvciwgY3Vyck9wZXJhbmRMaXN0KDApLCBjdXJyT3BlcmFuZExpc3QoMSkpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluT3BzTGlzdC5lbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbk9wc0xpc3QgPSAgOjogYmluT3BzTGlzdAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYW5kTGlzdCA9ICA6OiBjdXJyT3BlcmFuZExpc3QK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYW5kTGlzdCA9IFZhcihuYW1lLmFzSW5zdGFuY2VPZltTdHJpbmddKSA6OiBjdXJyT3BlcmFuZExpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFzc2VydChjdXJyVmFyTGlzdC5sZW5ndGggPD0gMikK</text>
+        <text encoding="base64">ICAgIGV4cHJUcmVlLnRyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBjdXJyQ29uc3RMaXN0OiBMaXN0W051bWJlcl0gPSBMaXN0KCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNob3dSYXcodHJlZSkgPSAiICsgc2hvd1JhdyhleHByVHJlZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBBZGQgbmVjZXNzYXJ5IGRlZmluaXRpb25zIGhlcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
