@@ -132,7 +132,7 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544013044355">
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544024771252">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="5" />
         <mark key="." line="20" column="5" />
@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544013040099">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544024766201">
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="41" />
+        <mark key="." line="49" column="41" />
+        <mark key="^" line="49" column="41" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -325,43 +325,43 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHJhdmVkc2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>printlnWithTabs()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50QXBwbHlTdGF0ZShhcHBseU51bSwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICIrIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJhdmVkc2QK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkdGltZXMiKSA9PgoKICAgICAgICBjYXNlIFRlcm1OYW1lKCIkZGl2IikgPT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICIvIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICIqIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIFRlcm1OYW1lKCIkcGx1cyIpID0+CiAgICAgICAgICBjdXJyT3BlcmF0b3IgPSAiKyIKICAgICAgICAgIHByaW50bG4oImN1cnJPcGVyYXRvciA9ICIgKyBjdXJyT3BlcmF0b3IpCgogICAgICAgIGNhc2UgVGVybU5hbWUoIiRtaW51cyIpID0+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cHJUcmVlLnRyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJPcGVyYXRvciA9ICItIgogICAgICAgICAgcHJpbnRsbigiY3Vyck9wZXJhdG9yID0gIiArIGN1cnJPcGVyYXRvcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNob3dSYXcodHJlZSkgPSAiICsgc2hvd1JhdyhleHByVHJlZSkpCg==</text>
+        <text encoding="base64">ICAgICAgdHJhdmVkc2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBBZGQgbmVjZXNzYXJ5IGRlZmluaXRpb25zIGhlcmUK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>21</text>
       </register>
     </registers>
     <search>
@@ -372,6 +372,9 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>99</entry>
+        <entry>101</entry>
+        <entry>21</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -403,6 +406,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
