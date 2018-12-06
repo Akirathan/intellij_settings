@@ -132,11 +132,11 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544104093848">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="20" column="5" />
-        <mark key="^" line="20" column="5" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544112455872">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e21/TailRecursion.scala" timestamp="1543240497098">
         <mark key="[" line="22" column="0" />
@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544111200316">
-        <mark key="[" line="170" column="13" />
-        <mark key="]" line="170" column="19" />
-        <mark key="." line="170" column="19" />
-        <mark key="^" line="170" column="19" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544112545903">
+        <mark key="[" line="161" column="13" />
+        <mark key="]" line="161" column="19" />
+        <mark key="." line="161" column="19" />
+        <mark key="^" line="161" column="19" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -327,43 +327,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildBinOpTree(binOp)</text>
+        <text>: BinOp</text>
       </register>
       <register name="-" type="4">
-        <text>buildBinOpTree(binOp)</text>
+        <text>: BinOp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBsZWZ0VHJlZTogVHJlZSA9IGJ1aWxkQmluT3BUcmVlKGJpbk9wLmxlZnQpCg==</text>
+        <text encoding="base64">ICAgIGJpbk9wVHJhdmVyc2VyLnRyYXZlcnNlKGV4cHJUcmVlLnRyZWUpCiAgICB2YWwgYmluT3A6IEJpbk9wID0gYmluT3BUcmF2ZXJzZXIuZ2V0QmluT3AK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwgbmV3VHJlZTogVHJlZSA9IHEiIiIKICAgICAgJHtiaW5PcFRyYXZlcnNlci50cmF2ZXJzZShleHByVHJlZS50cmVlKX0KICAgICAgJHtiaW5PcFRyYXZlcnNlci5nZXRCaW5PcH0KCQkgIiIiCgogICAgdmFsIG5ld0V4cHIgPSByZWlmeSB7CiAgICAgIGMuRXhwcihuZXdUcmVlKS5zcGxpY2UKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRlc3RpbmcgcGhhc2UuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyBSZXNldCBmcm9tIHRlc3RpbmcgcGhhc2UuCiAgICBiaW5PcFRyYXZlcnNlci5yZXNldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLyppZiAoYmluT3BzTGlzdC5sZW5ndGggPT0gMSkgewogICAgICAgIGJpbk9wc0xpc3QuaGVhZAogICAgICB9CiAgICAgIGVsc2UgewogICAgICAgIGFzc2VydChjdXJyT3BlcmFuZExpc3QubGVuZ3RoID09IDIpCiAgICAgICAgYXNzZXJ0KGN1cnJPcGVyYXRvciAhPSAiIikKCiAgICAgICAgQmluT3AoY3Vyck9wZXJhdG9yLCBjdXJyT3BlcmFuZExpc3QoMCksIGN1cnJPcGVyYW5kTGlzdCgxKSkKICAgICAgfSovCg==</text>
+        <text encoding="base64">ICAgIHZhbCBuZXdFeHByID0gcmVpZnkgewogICAgICAvL2MuRXhwcihuZXdUcmVlKS5zcGxpY2UKICAgICAgbmV3VHJlZQogICAgfQoKICAgIHByaW50bG4ocyJuZXdUcmVlPSRuZXdUcmVlLFx0IG5ld0V4cHI9JG5ld0V4cHIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYmluT3BUcmF2ZXJzZXIudHJhdmVyc2UoZXhwclRyZWUudHJlZSkKICAgICAgdmFsIF9iaW5PcDogQmluT3AgPSBiaW5PcFRyYXZlcnNlci5nZXRCaW5PcAogICAgICB2YWwgX25ld1RyZWUgPSBidWlsZEJpbk9wVHJlZShfYmluT3ApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdUcmVlOiBFeHByW0Jpbk9wXSA9IHJlaWZ5IHsKICAgICAgYmluT3BUcmF2ZXJzZXIudHJhdmVyc2UoZXhwclRyZWUudHJlZSkKICAgICAgYmluT3BUcmF2ZXJzZXIuZ2V0QmluT3AKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLy9iaW5PcAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQl2YWwgbmV3VHJlZTogVHJlZSA9IHEiIiIKICAgICAgJHtiaW5PcFRyYXZlcnNlci50cmF2ZXJzZShleHByVHJlZS50cmVlKX0KICAgICAgJHtiaW5PcFRyYXZlcnNlci5nZXRCaW5PcH0KCQkgIiIiCgogICAgdmFsIG5ld0V4cHIgPSByZWlmeSB7CiAgICAgIGMuRXhwcihuZXdUcmVlKS5zcGxpY2UKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdUcmVlID0gcmVpZnl7IGJpbk9wIH0udHJlZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHEiJGJpbk9wIgo=</text>
+        <text encoding="base64">CQkJLyppZiAoYmluT3BzTGlzdC5sZW5ndGggPT0gMSkgewogICAgICAgIGJpbk9wc0xpc3QuaGVhZAogICAgICB9CiAgICAgIGVsc2UgewogICAgICAgIGFzc2VydChjdXJyT3BlcmFuZExpc3QubGVuZ3RoID09IDIpCiAgICAgICAgYXNzZXJ0KGN1cnJPcGVyYXRvciAhPSAiIikKCiAgICAgICAgQmluT3AoY3Vyck9wZXJhdG9yLCBjdXJyT3BlcmFuZExpc3QoMCksIGN1cnJPcGVyYW5kTGlzdCgxKSkKICAgICAgfSovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>21</text>
+        <text>121</text>
       </register>
     </registers>
     <search>
@@ -378,10 +378,10 @@
         <entry>101</entry>
         <entry>109</entry>
         <entry>59</entry>
-        <entry>121</entry>
         <entry>24</entry>
         <entry>28</entry>
         <entry>21</entry>
+        <entry>121</entry>
       </history-cmd>
       <history-expr />
       <history-input />
