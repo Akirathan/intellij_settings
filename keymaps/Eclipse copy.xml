@@ -1,0 +1,16 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorContextInfo" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="com.andrewbrookins.idea.wrap.WrapAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+</keymap>

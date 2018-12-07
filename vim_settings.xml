@@ -1,0 +1,196 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1542276063850">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1542276418487">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/agent.py" timestamp="1542212010695">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/planner/execution_planner.py" timestamp="1537889175035">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="33" column="39" />
+        <mark key="^" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/deployment_tool/example.yaml" timestamp="1541758528042">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/frpy/cs.proto" timestamp="1537883785288">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="55" />
+        <mark key="^" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_monitor/__init__.py" timestamp="1537881817290">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541756781107">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/middleware/middleware.proto" timestamp="1537879513407">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="9" column="84" />
+        <mark key="^" line="9" column="84" />
+        <mark key="." line="9" column="84" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/middleware-executor.py" timestamp="1541592589822">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/knowledge/knowledge.proto" timestamp="1537879866893">
+        <mark key="[" line="96" column="33" />
+        <mark key="]" line="97" column="27" />
+        <mark key="^" line="97" column="27" />
+        <mark key="." line="97" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/middleware/agent.py" timestamp="1537879711639">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/client_controller_test.py" timestamp="1542276056791">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/frpy/dds_server.py" timestamp="1537884073458">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/.gitignore" timestamp="1537879787354">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/apps/frpy/frpy/grpc_client.py" timestamp="1542275771175">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="88" />
+        <mark key="^" line="58" column="79" />
+        <mark key="." line="58" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_executor/plan_executor.py" timestamp="1541415509225">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="48" column="34" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="48" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/__init__.py" timestamp="1542275453801">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/planner/solver.py" timestamp="1537974744641">
+        <mark key="[" line="71" column="53" />
+        <mark key="]" line="71" column="54" />
+        <mark key="^" line="71" column="54" />
+        <mark key="." line="71" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/middleware-executor.py" timestamp="1542275009317">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="88" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>response: ClientResponse =</text>
+      </register>
+      <register name="-" type="4">
+        <text>response: ClientResponse =</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9rbm93bGVkZ2Vfc2VydmVyX3N0dWIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yID0gQ2xpZW50RGVzY3JpcHRvcigpCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmFwcGxpY2F0aW9uID0gcmVxdWVzdC5hcHBsaWNhdGlvbgogICAgICAgICAgICBjbGllbnRfZGVzY3JpcHRvci50eXBlID0gcmVxdWVzdC5jbGllbnRUeXBlCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmlwID0gY2xpZW50X2lwCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmhhc0lEID0gRmFsc2UKICAgICAgICAgICAgY2xpZW50X2Rlc2NyaXB0b3IuaWQgPSBOb25lCiAgICAgICAgICAgIAogICAgICAgICAgICBzZWxmLl9rbm93bGVkZ2Vfc2VydmVyX3N0dWIuQWRkTmV3Q2xpZW50KGNsaWVudF9kZXNjcmlwdG9yKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIFNhdmUgbmV3IGNsaWVudCBpbnRvIEtub3dsZWRnZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBfQ2xpZW50VHJhY2tlci5hZGRfY2xpZW50KGNsaWVudF9pcCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX25ld19jbGllbnRfdG9fa25vd2xlZGdlKHJlcXVlc3QsIGNsaWVudF9pcCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50X2Rlc2NyaXB0b3IuYXBwbGljYXRpb24gPSByZXF1ZXN0LmFwcGxpY2F0aW9uCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLnR5cGUgPSByZXF1ZXN0LmNsaWVudFR5cGUKICAgICAgICAgICAgY2xpZW50X2Rlc2NyaXB0b3IuaXAgPSBjbGllbnRfaXAKICAgICAgICAgICAgY2xpZW50X2Rlc2NyaXB0b3IuaGFzSUQgPSBGYWxzZQogICAgICAgICAgICBjbGllbnRfZGVzY3JpcHRvci5pZCA9IE5vbmUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9rbm93bGVkZ2Vfc2VydmVyX3N0dWIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yID0gQ2xpZW50RGVzY3JpcHRvcigpCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmFwcGxpY2F0aW9uID0gcmVxdWVzdC5hcHBsaWNhdGlvbgogICAgICAgICAgICBjbGllbnRfZGVzY3JpcHRvci50eXBlID0gcmVxdWVzdC5jbGllbnRUeXBlCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmlwID0gY2xpZW50X2lwCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmhhc0lEID0gRmFsc2UKICAgICAgICAgICAgY2xpZW50X2Rlc2NyaXB0b3IuaWQgPSBOb25lCiAgICAgICAgICAgIAogICAgICAgICAgICBzZWxmLl9rbm93bGVkZ2Vfc2VydmVyX3N0dWIuQWRkTmV3Q2xpZW50KGNsaWVudF9kZXNjcmlwdG9yKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
