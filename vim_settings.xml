@@ -132,11 +132,11 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544112455872">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/h4/ExpressionsTest.scala" timestamp="1544175015920">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/e21/TailRecursion.scala" timestamp="1543240497098">
         <mark key="[" line="22" column="0" />
@@ -243,11 +243,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544112545903">
-        <mark key="[" line="161" column="13" />
-        <mark key="]" line="161" column="19" />
-        <mark key="." line="161" column="19" />
-        <mark key="^" line="161" column="19" />
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/macros/src/main/scala/h4/ExpressionImplicits.scala" timestamp="1544174881338">
+        <mark key="[" line="165" column="45" />
+        <mark key="]" line="167" column="25" />
+        <mark key="." line="167" column="25" />
+        <mark key="^" line="167" column="25" />
       </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1105-1203/exercises-homework/src/main/scala/tmp.scala" timestamp="1543506874770">
         <mark key="[" line="24" column="4" />
@@ -363,7 +363,7 @@
         <text encoding="base64">CQkJLyppZiAoYmluT3BzTGlzdC5sZW5ndGggPT0gMSkgewogICAgICAgIGJpbk9wc0xpc3QuaGVhZAogICAgICB9CiAgICAgIGVsc2UgewogICAgICAgIGFzc2VydChjdXJyT3BlcmFuZExpc3QubGVuZ3RoID09IDIpCiAgICAgICAgYXNzZXJ0KGN1cnJPcGVyYXRvciAhPSAiIikKCiAgICAgICAgQmluT3AoY3Vyck9wZXJhdG9yLCBjdXJyT3BlcmFuZExpc3QoMCksIGN1cnJPcGVyYW5kTGlzdCgxKSkKICAgICAgfSovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>21</text>
       </register>
     </registers>
     <search>
@@ -380,8 +380,8 @@
         <entry>59</entry>
         <entry>24</entry>
         <entry>28</entry>
-        <entry>21</entry>
         <entry>121</entry>
+        <entry>21</entry>
       </history-cmd>
       <history-expr />
       <history-input />
