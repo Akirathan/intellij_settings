@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1210-1217/exercises-homework/js/js/04-Prototypes.js" timestamp="1545053652415">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1210-1217/exercises-homework/js/js/05-Mixin.js" timestamp="1545054905614">
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/modern_concepts/NPRG014/lecture1210-1217/exercises-homework/js/js/03-Objects.js" timestamp="1545053266960">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="32" />
@@ -11,7 +23,35 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMucGx1cyA9IGZ1bmN0aW9uKHJhdGlvbmFsKSB7CiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdG1wTm9tID0gbm9tICogcmF0aW9uYWwuZGVub20gKyByYXRpb25hbC5ub20gKiBkZW5vbTsKICAgICAgICB2YXIgdG1wRGVub20gPSBkZW5vbSAqIHJhdGlvbmFsLmRlbm9tOwogICAgICAgIHJldHVybiBuZXcgUmF0aW9uYWwodG1wTm9tLCB0bXBEZW5vbSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gUmF0aW9uYWwobm9tLCBkZW5vbSkgewogICAgdGhpcy5ub20gPSBub207CiAgICB0aGlzLmRlbm9tID0gZGVub207CiAgICB0aGlzLnBsdXMgPSBmdW5jdGlvbihyYXRpb25hbCkgewogICAgICAgIHZhciB0bXBOb20gPSBub20gKiByYXRpb25hbC5kZW5vbSArIHJhdGlvbmFsLm5vbSAqIGRlbm9tOwogICAgICAgIHZhciB0bXBEZW5vbSA9IGRlbm9tICogcmF0aW9uYWwuZGVub207CiAgICAgICAgcmV0dXJuIG5ldyBSYXRpb25hbCh0bXBOb20sIHRtcERlbm9tKTsKICAgIH0KfQoKZnVuY3Rpb24gQ29tcGFyYWJsZSgpIHt9CgpDb21wYXJhYmxlLnByb3RvdHlwZSA9IHsKICAgIGx0OiBmdW5jdGlvbihvdGhlclJhdGlvbmFsKSB7CiAgICAgICAgcmV0dXJuIHRoaXMubm9tID4gb3RoZXJSYXRpb25hbC5ub20gJiYgdGhpcy5kZW5vbSA+IG90aGVyUmF0aW9uYWwuZGVub207CiAgICB9LAogICAgCiAgICBndDogZnVuY3Rpb24ob3RoZXJSYXRpb25hbCkgewogICAgICAgIHJldHVybiB0aGlzLm5vbSA8IG90aGVyUmF0aW9uYWwubm9tICYmIHRoaXMuZGVub20gPCBvdGhlclJhdGlvbmFsLmRlbm9tOwogICAgfQp9Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
