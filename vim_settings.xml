@@ -13,11 +13,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="43" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/client_controller.py" timestamp="1545044499284">
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/client_controller.py" timestamp="1545049235170">
         <mark key="[" line="151" column="118" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
+        <mark key="]" line="140" column="9" />
+        <mark key="^" line="140" column="9" />
+        <mark key="." line="140" column="9" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/planner/execution_planner.py" timestamp="1537889175035">
         <mark key="[" line="30" column="34" />
