@@ -34,6 +34,12 @@
         <mark key="^" line="140" column="9" />
         <mark key="." line="140" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_tests.py" timestamp="1545219575527">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/edge/avocado/planner/execution_planner.py" timestamp="1537889175035">
         <mark key="[" line="30" column="34" />
         <mark key="]" line="33" column="39" />
@@ -54,9 +60,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/knowledge/model.py" timestamp="1545216545710">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/knowledge/model.py" timestamp="1545218559433">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="60" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/knowledge/knowledge.proto" timestamp="1537879866893">
@@ -126,25 +132,19 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vZGUgaWRlbnRpZmljYXRpb24/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9rbm93bGVkZ2Vfc2VydmVyX3N0dWIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yID0gQ2xpZW50RGVzY3JpcHRvcigpCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmFwcGxpY2F0aW9uID0gcmVxdWVzdC5hcHBsaWNhdGlvbgogICAgICAgICAgICBjbGllbnRfZGVzY3JpcHRvci50eXBlID0gcmVxdWVzdC5jbGllbnRUeXBlCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmlwID0gY2xpZW50X2lwCiAgICAgICAgICAgIGNsaWVudF9kZXNjcmlwdG9yLmhhc0lEID0gRmFsc2UKICAgICAgICAgICAgY2xpZW50X2Rlc2NyaXB0b3IuaWQgPSBOb25lCiAgICAgICAgICAgIAogICAgICAgICAgICBzZWxmLl9rbm93bGVkZ2Vfc2VydmVyX3N0dWIuQWRkTmV3Q2xpZW50KGNsaWVudF9kZXNjcmlwdG9yKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNsb3VkX2NvbnRyb2xsZXIua25vd2xlZGdlLmtub3dsZWRnZV9wYjIgYXMgcHJvdG9jb2xzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vZGUgaWRlbnRpZmljYXRpb24/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>self, application_name: str):
-        &quot;&quot;&quot;
-        For Knowledge Server
-        :param application_name:
-        :return:
-        &quot;&quot;&quot;
-        del self.desired_state[application_name]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIE5vZGUgaWRlbnRpZmljYXRpb24/Cg==</text>
       </register>
       <register name="3" type="4">
         <text>self, application_name: str):
@@ -155,23 +155,29 @@
         &quot;&quot;&quot;
         del self.desired_state[application_name]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNhdmUgbmV3IGNsaWVudCBpbnRvIEtub3dsZWRnZQo=</text>
+      <register name="4" type="4">
+        <text>self, application_name: str):
+        &quot;&quot;&quot;
+        For Knowledge Server
+        :param application_name:
+        :return:
+        &quot;&quot;&quot;
+        del self.desired_state[application_name]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfQ2xpZW50VHJhY2tlci5hZGRfY2xpZW50KGNsaWVudF9pcCkK</text>
+        <text encoding="base64">ICAgICAgICAjIFNhdmUgbmV3IGNsaWVudCBpbnRvIEtub3dsZWRnZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX25ld19jbGllbnRfdG9fa25vd2xlZGdlKHJlcXVlc3QsIGNsaWVudF9pcCkK</text>
+        <text encoding="base64">ICAgICAgICBfQ2xpZW50VHJhY2tlci5hZGRfY2xpZW50KGNsaWVudF9pcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX25ld19jbGllbnRfdG9fa25vd2xlZGdlKHJlcXVlc3QsIGNsaWVudF9pcCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
