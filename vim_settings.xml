@@ -3,6 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1545221150271">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1545221205017">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/agent.py" timestamp="1542212010695">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/client_controller.py" timestamp="1545049235170">
+        <mark key="[" line="151" column="118" />
+        <mark key="]" line="140" column="9" />
+        <mark key="^" line="140" column="9" />
+        <mark key="." line="140" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/planner/execution_planner.py" timestamp="1537889175035">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="33" column="39" />
+        <mark key="^" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/deployment_tool/example.yaml" timestamp="1541758528042">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/knowledge/model.py" timestamp="1545218559433">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/frpy/cs.proto" timestamp="1537883785288">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="55" />
+        <mark key="^" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/sample_app.yaml" timestamp="1545221146414">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_monitor/__init__.py" timestamp="1537881817290">
         <mark key="[" line="24" column="10" />
         <mark key="]" line="24" column="15" />
@@ -18,39 +63,17 @@
         <mark key="^" line="9" column="84" />
         <mark key="." line="9" column="84" />
       </file>
-      <file name="/Python Console" timestamp="1544697476781">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1542276418487">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/agent.py" timestamp="1542212010695">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/middleware/client_controller.py" timestamp="1545049235170">
-        <mark key="[" line="151" column="118" />
-        <mark key="]" line="140" column="9" />
-        <mark key="^" line="140" column="9" />
-        <mark key="." line="140" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_tests.py" timestamp="1545219575527">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/planner/execution_planner.py" timestamp="1537889175035">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="33" column="39" />
-        <mark key="^" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/deployment_tool/example.yaml" timestamp="1541758528042">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/solver_tests.py" timestamp="1545221116669">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/setup_logging.py" timestamp="1545044436254">
         <mark key="[" line="23" column="47" />
@@ -59,11 +82,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/knowledge/model.py" timestamp="1545218559433">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/knowledge/knowledge.proto" timestamp="1537879866893">
         <mark key="[" line="96" column="33" />
@@ -81,12 +99,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/frpy/cs.proto" timestamp="1537883785288">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="55" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/frpy/dds_server.py" timestamp="1537884073458">
         <mark key="[" line="22" column="0" />
@@ -132,52 +144,52 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNsb3VkX2NvbnRyb2xsZXIua25vd2xlZGdlLmtub3dsZWRnZV9wYjIgYXMgcHJvdG9jb2xzCg==</text>
+        <text encoding="base64">I1NBTVBMRV9BUFBfTkFNRSA9ICJjbG91ZF9jb250cm9sbGVyL2FuYWx5c2lzL3NvbHZlcl90ZXN0L3NhbXBsZV9hcHAueWFtbCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vZGUgaWRlbnRpZmljYXRpb24/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>self, application_name: str):
-        &quot;&quot;&quot;
-        For Knowledge Server
-        :param application_name:
-        :return:
-        &quot;&quot;&quot;
-        del self.desired_state[application_name]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIF9jcmVhdGVfYXJjaGl0ZWN0dXJlKCkgLT4gcHJvdG9jb2xzLkFyY2hpdGVjdHVyZToKICAgIGFyY2hpdGVjdHVyZSA9IHByb3RvY29scy5BcmNoaXRlY3R1cmUoKQogICAgYXJjaGl0ZWN0dXJlLm5hbWUgPSAic2FtcGxlX2FwcGxpY2F0aW9uIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>self, application_name: str):
-        &quot;&quot;&quot;
-        For Knowledge Server
-        :param application_name:
-        :return:
-        &quot;&quot;&quot;
-        del self.desired_state[application_name]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBjbG91ZF9jb250cm9sbGVyLmRlcGx0b29sIGltcG9ydCB5YW1sX3RvX2dycGNfYXJjaGl0ZWN0dXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNhdmUgbmV3IGNsaWVudCBpbnRvIEtub3dsZWRnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfQ2xpZW50VHJhY2tlci5hZGRfY2xpZW50KGNsaWVudF9pcCkK</text>
+        <text encoding="base64">ICAgICAgICAjIE5vZGUgaWRlbnRpZmljYXRpb24/Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX25ld19jbGllbnRfdG9fa25vd2xlZGdlKHJlcXVlc3QsIGNsaWVudF9pcCkK</text>
+      <register name="7" type="4">
+        <text>self, application_name: str):
+        &quot;&quot;&quot;
+        For Knowledge Server
+        :param application_name:
+        :return:
+        &quot;&quot;&quot;
+        del self.desired_state[application_name]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjUpCg==</text>
+      <register name="8" type="4">
+        <text>self, application_name: str):
+        &quot;&quot;&quot;
+        For Knowledge Server
+        :param application_name:
+        :return:
+        &quot;&quot;&quot;
+        del self.desired_state[application_name]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFNhdmUgbmV3IGNsaWVudCBpbnRvIEtub3dsZWRnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
