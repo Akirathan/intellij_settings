@@ -69,10 +69,10 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/solver_tests.py" timestamp="1545235395222">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/solver_tests.py" timestamp="1545314673724">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/setup_logging.py" timestamp="1545044436254">
         <mark key="[" line="23" column="47" />
@@ -147,7 +147,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsdXN0ZXJfc3RhdGUgPSBfZ2V0X2N1cnJlbnRfY2x1c3Rlcl9zdGF0ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_fill_cloud_state_model(model)</text>
@@ -156,31 +156,31 @@
         <text encoding="base64">ICAgIGNvbmZpZy5sb2FkX2t1YmVfY29uZmlnKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsdXN0ZXJfc3RhdGUgPSBfZ2V0X2N1cnJlbnRfY2x1c3Rlcl9zdGF0ZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Q0xVU1RFUl9TVEFURV9PVVQgPSAiLi9jbHVzdGVyX3N0YXRlLnR4dCIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihDTFVTVEVSX1NUQVRFX09VVCwgInciKSBhcyBvdXRmaWxlOgogICAgICAgIG91dGZpbGUud3JpdGUoc3RyKGNsdXN0ZXJfc3RhdGUpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNsdXN0ZXJfc3RhdGUgPSBfZ2V0X2N1cnJlbnRfY2x1c3Rlcl9zdGF0ZSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Q0xVU1RFUl9TVEFURV9PVVQgPSAiLi9jbHVzdGVyX3N0YXRlLnR4dCIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihDTFVTVEVSX1NUQVRFX09VVCwgInciKSBhcyBvdXRmaWxlOgogICAgICAgIG91dGZpbGUud3JpdGUoc3RyKGNsdXN0ZXJfc3RhdGUpKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIiBDcmVhdGVzIHR3byBub2RlcyAiIiIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICIiIiBDcmVhdGVzIHR3byBub2RlcyAiIiIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
