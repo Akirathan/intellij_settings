@@ -9,7 +9,7 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="123" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548420357243">
+      <file name="/Dummy.txt" timestamp="1555841068868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1547410855426">
@@ -61,6 +61,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/truffle_brainfuck/bf" timestamp="1555840800245">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/common.py" timestamp="1546871784107">
         <mark key="[" line="34" column="30" />
@@ -135,13 +141,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CQkJImlkIjogInJlY29nLTEiLAoJCQkiY29tcG9uZW50X3R5cGVfaWQiOiAicmVjb2dJRCIsCgkJCSJhc3NpZ25lZF9ub2RlIjogIm5vZGUxIiwKCQkJImRlcGVuZGVuY2llcyI6IFtdCg==</text>
+        <text encoding="base64">IyRKQVZBQ01EICRKQVZBX0FSR1MgLXBvbHlnbG90IC1jcCAuL3RhcmdldC9jbGFzc2VzIGNvbS5vcmFjbGUudHJ1ZmZsZS5iZi5CRk1haW4gJFBST0dSQU1fQVJHUwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LXBvbHlnbG90IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGVmIGZpbmRfYXNzaWdubWVudCgpCg==</text>
@@ -168,7 +174,7 @@
         <text encoding="base64">ICAgICAgICBpZiBjb21waW5fb3Jfbm9kZV9vcl9pcF9hCg==</text>
       </register>
       <register name="-" type="4">
-        <text>: str</text>
+        <text encoding="base64">LXBvbHlnbG90IA==</text>
       </register>
     </registers>
     <search>
@@ -211,6 +217,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
