@@ -3,15 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/protocol_wrappers.py" timestamp="1545500657859">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="123" column="48" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555841068868">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1547410855426">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,12 +12,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input.py" timestamp="1545562639617">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="11" column="105" />
-      </file>
       <file name="/fragment.py" timestamp="1546774681718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -35,23 +20,17 @@
       <file name="/a.dummy" timestamp="1546870153705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/solver_tests.py" timestamp="1546457570324">
-        <mark key="[" line="216" column="104" />
-        <mark key="]" line="135" column="35" />
-        <mark key="^" line="135" column="35" />
-        <mark key="." line="135" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/serial_crawler/crawler.py" timestamp="1545762078295">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="39" />
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input-3.json" timestamp="1546777008225">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="42" column="20" />
-        <mark key="." line="42" column="20" />
-        <mark key="^" line="42" column="20" />
+      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/ArgumentParser.java" timestamp="1565364841307">
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+        <mark key="." line="5" column="66" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/readme.txt" timestamp="1546261551890">
         <mark key="[" line="0" column="0" />
@@ -62,17 +41,62 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/truffle_brainfuck/bf" timestamp="1555844488727">
-        <mark key="[" line="28" column="70" />
-        <mark key="]" line="28" column="72" />
-        <mark key="^" line="28" column="72" />
-        <mark key="." line="28" column="72" />
-      </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/common.py" timestamp="1546871784107">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="12" />
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/sample_solver.py" timestamp="1546705564200">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input-4.json" timestamp="1546777362193">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/protocol_wrappers.py" timestamp="1545500657859">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="123" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555841068868">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input.py" timestamp="1545562639617">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="11" column="105" />
+      </file>
+      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/ArgumentDescriptor.java" timestamp="1565365245421">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/solver_tests.py" timestamp="1546457570324">
+        <mark key="[" line="216" column="104" />
+        <mark key="]" line="135" column="35" />
+        <mark key="^" line="135" column="35" />
+        <mark key="." line="135" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input-3.json" timestamp="1546777008225">
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/truffle_brainfuck/bf" timestamp="1555844488727">
+        <mark key="[" line="28" column="70" />
+        <mark key="]" line="28" column="72" />
+        <mark key="^" line="28" column="72" />
+        <mark key="." line="28" column="72" />
       </file>
       <file name="$USER_HOME$/dev/serial_crawler/try.py" timestamp="1547657490590">
         <mark key="[" line="2" column="17" />
@@ -98,16 +122,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/Main.java" timestamp="1557816830130">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/sample_solver.py" timestamp="1546705564200">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/Main.java" timestamp="1565364980199">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/knowledge/__init__.py" timestamp="1546877379192">
         <mark key="[" line="0" column="0" />
@@ -117,12 +136,6 @@
       </file>
       <file name="$USER_HOME$/dev/truffle_brainfuck/src/main/java/com/oracle/truffle/bf/BFV1.java" timestamp="1555844607311">
         <mark key="'" line="146" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input-4.json" timestamp="1546777362193">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/compin_solver.py" timestamp="1548409720134">
         <mark key="'" line="220" column="33" />
@@ -153,7 +166,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getSome</text>
+        <text encoding="base64">QE5vdE51bGwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFw+</text>
@@ -165,28 +178,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFNvbWVTdHJpbmcoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHNob3J0T3B0aW9uOwogICAgcHJpdmF0ZSBTdHJpbmcgbG9uZ09wdGlvbiA9IG51bGw7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkFob2oiOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGxpc3QuYWRkKDEpOwoKICAgICAgICBJbnRlZ2VyW10gYXJyYXkgPSB7MSwgMiwgM307CiAgICAgICAgbGlzdC5hZGRBbGwoQXJyYXlzLmFzTGlzdChhcnJheSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJOdW1iZXI6ICVkIiwgNCkpOwoKICAgICAgICBNYWluIG1haW4gPSBuZXcgTWFpbigpOwogICAgICAgIFN0cmluZyBzb21lU3RyaW5nID0gbWFpbi5nZXRTb21lU3RyaW5nKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIlN0cmluZyBmcm9tIG1haW46ICVzIiwgc29tZVN0cmluZykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYXJyID0gQXJyYXlzLmFzTGlzdChhcnJheSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyRKQVZBQ01EICRKQVZBX0FSR1MgLS1wb2x5Z2xvdCAtY3AgLi90YXJnZXQvY2xhc3NlcyBjb20ub3JhY2xlLnRydWZmbGUuYmYuQkZNYWluICRQUk9HUkFNX0FSR1MK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiJEpBVkFDTUQgJEpBVkFfQVJHUyAtY3AgLi90YXJnZXQvY2xhc3NlcyBjb20ub3JhY2xlLnRydWZmbGUuYmYuQkZNYWluICRQUk9HUkFNX0FSR1MiCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0Lgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKDoKICAgICAgICAgICAgICkgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
     </registers>
     <search>
