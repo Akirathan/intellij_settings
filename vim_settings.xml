@@ -26,11 +26,11 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/ArgumentParser.java" timestamp="1565364841307">
-        <mark key="[" line="5" column="66" />
-        <mark key="]" line="5" column="66" />
-        <mark key="^" line="5" column="66" />
-        <mark key="." line="5" column="66" />
+      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/ArgumentParser.java" timestamp="1565366211802">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/readme.txt" timestamp="1546261551890">
         <mark key="[" line="0" column="0" />
@@ -65,7 +65,7 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="123" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555841068868">
+      <file name="/Dummy.txt" timestamp="1565366850297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/input.py" timestamp="1545562639617">
@@ -74,11 +74,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="105" />
       </file>
-      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/ArgumentDescriptor.java" timestamp="1565365245421">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/ArgumentDescriptor.java" timestamp="1565366153373">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/analysis/solver_test/solver_tests.py" timestamp="1546457570324">
         <mark key="[" line="216" column="104" />
@@ -122,11 +121,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/Main.java" timestamp="1565364980199">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/dev/java/untitled/src/mayfa/Main.java" timestamp="1565366610100">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="70" />
+        <mark key="^" line="11" column="70" />
       </file>
       <file name="$USER_HOME$/dev/edge/avocado/cloud_controller/knowledge/__init__.py" timestamp="1546877379192">
         <mark key="[" line="0" column="0" />
@@ -162,11 +161,11 @@
       <jump line="146" column="20" filename="$USER_HOME$/dev/truffle_brainfuck/src/main/java/com/oracle/truffle/bf/BFV1.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>entry.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QE5vdE51bGwg</text>
+        <text>entry.getKey()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFw+</text>
@@ -175,31 +174,31 @@
         <text encoding="base64">IyRKQVZBQ01EICRKQVZBX0FSR1MgLXBvbHlnbG90IC1jcCAuL3RhcmdldC9jbGFzc2VzIGNvbS5vcmFjbGUudHJ1ZmZsZS5iZi5CRk1haW4gJFBST0dSQU1fQVJHUwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyIGxvZ2dlciA9IFN5c3RlbS5nZXRMb2dnZXIoImxvZ2dlciIpOwogICAgICAgICAgICBsb2dnZXIubG9nKExvZ2dlci5MZXZlbC5JTkZPLCAiVGFkeSBidWRlIGtsaWM9JXMiLCBlbnRyeS5nZXRLZXkoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHNob3J0T3B0aW9uOwogICAgcHJpdmF0ZSBTdHJpbmcgbG9uZ09wdGlvbiA9IG51bGw7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5hbm5vdGF0aW9uLio7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICB2YXIgbGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsKICAgICAgICBsaXN0LmFkZCgxMCk7CiAgICAgICAgZm9yICh2YXIgaXRlbSA6IGxpc3QpCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpdGVtKTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlc2NyaXB0b3IgPSBkZXNjcmlwdG9yOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0Lgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXJndW1lbnREZXNjcmlwdG9yIGRlc2NyaXB0b3I7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKDoKICAgICAgICAgICAgICkgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdHlwZSAhPSBudWxsOwo=</text>
       </register>
     </registers>
     <search>
