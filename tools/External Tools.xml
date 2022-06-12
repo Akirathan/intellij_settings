@@ -1,0 +1,14 @@
+<toolSet name="External Tools">
+  <tool name="mx build" description="Build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="env" />
+      <option name="PARAMETERS" value="PATH=&quot;$PATH:/home/pmarek/dev/mx&quot; JAVA_HOME=/home/pmarek/.mx/jdks/labsjdk-ce-17 FASTR_RELEASE=true FASTR_NO_RECOMMENDED=true FASTR_CAPTURE_DEPENDENCIES= GNUR_HOME_BINARY=/home/pmarek/dev/R-4.0.3 ECLIPSE_EXE=/home/pmarek/eclipse/java-2021-09/eclipse/eclipse FASTR_RECOMMENDED_BINARY=/home/pmarek/dev/fastr_recommended_binary JDT=builtin /home/pmarek/dev/mx/mx build" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/fastr" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="[0-9]*\. [A-Z]* in $FILE_PATH$ \(at line $LINE$\)" />
+    </filter>
+  </tool>
+</toolSet>

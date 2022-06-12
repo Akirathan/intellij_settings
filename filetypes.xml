@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="g" type="ANTLR v4 grammar file" />
+      <mapping pattern="gated3" type="AUTO_DETECTED" />
+      <mapping pattern="configure" type="AUTO_DETECTED" />
+      <mapping pattern="gated5" type="AUTO_DETECTED" />
+      <mapping pattern="env" type="AUTO_DETECTED" />
+      <mapping pattern="dependencies" type="AUTO_DETECTED" />
+      <mapping pattern="ce-fastr" type="AUTO_DETECTED" />
+      <mapping ext="libsonnet" type="Jsonnet file" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="j3o" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="output" type="PLAIN_TEXT" />
+      <mapping ext="stderr" type="PLAIN_TEXT" />
+      <mapping ext="stdout" type="PLAIN_TEXT" />
+      <removed_mapping pattern="pubspec.lock" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="r" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

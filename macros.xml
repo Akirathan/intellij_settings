@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="mx build macro">
+      <shortuct text="ENTER" />
+      <action id="ChooseRunConfiguration" />
+      <typing text-keycode="77:0;88:0;32:0;66:0;85:0;73:0">mx&amp;#x20;bui</typing>
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
