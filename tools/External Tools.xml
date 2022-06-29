@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="env" />
       <option name="PARAMETERS" value="PATH=&quot;$PATH:/home/pmarek/dev/mx&quot; JAVA_HOME=/home/pmarek/.mx/jdks/labsjdk-ce-17 FASTR_RELEASE=true FASTR_NO_RECOMMENDED=true FASTR_CAPTURE_DEPENDENCIES= GNUR_HOME_BINARY=/home/pmarek/dev/R-4.0.3 ECLIPSE_EXE=/home/pmarek/eclipse/java-2021-09/eclipse/eclipse FASTR_RECOMMENDED_BINARY=/home/pmarek/dev/fastr_recommended_binary JDT=builtin /home/pmarek/dev/mx/mx build" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/fastr" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Pavel Marek/dev/fastr" />
     </exec>
     <filter>
       <option name="NAME" value="No name" />
