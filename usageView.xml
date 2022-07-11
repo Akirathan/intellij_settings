@@ -5,6 +5,7 @@
   <component name="UsageViewSettings">
     <option name="EXPORT_FILE_NAME" value="$USER_HOME$/dev/fastr/scratch/report.txt" />
     <option name="IS_EXPANDED" value="true" />
+    <option name="IS_PREVIEW_USAGES" value="false" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.34525746" />
   </component>
 </application>
