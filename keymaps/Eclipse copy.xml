@@ -41,6 +41,7 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="f1" />
@@ -56,6 +57,9 @@
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
