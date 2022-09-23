@@ -3,6 +3,7 @@
     <option name="customScope" value="fastr" />
     <option name="defaultScopeName" value="fastr" />
     <option name="SEARCH_SCOPE" value="fastr" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>Makefile</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -13,5 +14,6 @@
     <mask>*.c</mask>
     <mask>*.h</mask>
     <mask>*.java</mask>
+    <mask>*.md</mask>
   </component>
 </application>
